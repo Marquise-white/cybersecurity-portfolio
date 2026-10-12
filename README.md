@@ -18,7 +18,7 @@ Ubuntu Lab 01
 * Environment: Ubuntu Linux
 * Focus: Linux fundamentals and command-line practice
 * Documentation: See the Ubuntu Lab 01 report uploaded to this repository.
-* 
+  
 * [View Ubuntu Lab 1 Report](./Ubuntu%20Lab%201.pdf)
 
 Upcoming Projects
